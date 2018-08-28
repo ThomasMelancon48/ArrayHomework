@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\thomas melancon\source\repos\arrayhomework\arrayhomework\source.cpp(15): error C2118: negative subscript
+c:\users\thomas melancon\source\repos\arrayhomework\arrayhomework\source.cpp(41): error C2369: 'number': redefinition; different subscripts
+  c:\users\thomas melancon\source\repos\arrayhomework\arrayhomework\source.cpp(11): note: see declaration of 'number'
+c:\users\thomas melancon\source\repos\arrayhomework\arrayhomework\source.cpp(42): error C2086: 'int i': redefinition
+  c:\users\thomas melancon\source\repos\arrayhomework\arrayhomework\source.cpp(29): note: see declaration of 'i'
+c:\users\thomas melancon\source\repos\arrayhomework\arrayhomework\source.cpp(51): error C2065: 'numbers': undeclared identifier
